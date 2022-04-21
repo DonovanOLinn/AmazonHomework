@@ -1,0 +1,75 @@
+.container-fluid{
+    border: 5px dashed black;
+}
+
+.container{
+    border: 5px dashed black;
+}
+
+.container-sm{
+    border: 5px dashed black;
+}
+
+
+
+#box{
+    display: block;
+    border: 1px solid gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 3%
+}
+
+#header{
+    height: 100px;
+    padding-top: 10px
+}
+
+h1{
+    font-size: 20px;
+}
+
+#footer{
+    padding-top: 30px;
+}
+
+#text-sign{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+#text-email{
+    font-size: 13px;
+    padding-left: 10px
+}
+
+#btn-continue{
+    background-color: orange;
+    color: black;
+}
+
+#btn-account{
+    background-color: lightgray;
+    color: black;
+}
+
+#text-conditions{
+    font-size: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#text-copywright{
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+#text-email{
+    padding-top: 8px;
+    padding-bottom: 15px;
+}
+
+#left-line{
+    border: 1px black;
+    display: block;
+}
